@@ -2,12 +2,12 @@
 
 ## Требования для запуска
 ```net 8.0.400```
-```Microsoft.EntityFrameworkCore.Design 8.0.10```
-```Microsoft.EntityFrameworkCore 8.0.10```
-```Microsoft.EntityFrameworkCore.Tools 8.0.10```
-```Npgsql.EntityFrameworkCore.PostgreSQL 8.0.8```
-```Swashbuckle.AspNetCore 6.4.0```
-```postgres (PostgreSQL) 16.2```
+```Microsoft.EntityFrameworkCore.Design 8.0.10```</br>
+```Microsoft.EntityFrameworkCore 8.0.10```</br>
+```Microsoft.EntityFrameworkCore.Tools 8.0.10```</br>
+```Npgsql.EntityFrameworkCore.PostgreSQL 8.0.8```</br>
+```Swashbuckle.AspNetCore 6.4.0```</br>
+```postgres (PostgreSQL) 16.2```</br>
 
 ## Среда разработки
 Visual Studio 2022
