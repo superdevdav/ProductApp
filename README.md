@@ -1,7 +1,7 @@
 # ProductApp
 
 ## Требования для запуска
-```net 8.0.400```
+```net 8.0.400```</br>
 ```Microsoft.EntityFrameworkCore.Design 8.0.10```</br>
 ```Microsoft.EntityFrameworkCore 8.0.10```</br>
 ```Microsoft.EntityFrameworkCore.Tools 8.0.10```</br>
